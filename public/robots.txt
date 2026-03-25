@@ -17,4 +17,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://myspace.example.com/sitemap.xml
+Sitemap: https://1-qi3v.vercel.app/sitemap.xml

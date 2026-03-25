@@ -34,7 +34,7 @@ export const siteConfig = {
       name: 'About / Portfolio',
       icon: '/icons/ipod.png',
       type: 'external',
-      link: 'https://example.com/portfolio',
+      link: 'https://1-qi3v.vercel.app/',
       iconSize: 64,
     },
     {
@@ -42,7 +42,7 @@ export const siteConfig = {
       name: 'Lip Zone',
       icon: '/icons/msn.png',
       type: 'external',
-      link: 'https://example.com/lip-zone',
+      link: 'https://1-qi3v.vercel.app/',
       iconSize: 64,
     },
     {
@@ -65,7 +65,7 @@ export const siteConfig = {
       name: 'Taste Map Zone',
       icon: '/icons/filmstrip1.png',
       type: 'external',
-      link: 'https://example.com/taste-map',
+      link: 'https://1-qi3v.vercel.app/',
       iconSize: 90,
     },
   ] as ZoneConfig[],
@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'My Space — Frutiger Aero Personal Hub',
     description: 'Frutiger Aero 스타일의 개인 포트폴리오 & 크리에이티브 허브. Lip Zone, Camera Zone, Playlist, Taste Map, Portfolio를 만나보세요.',
     author: 'My Space Owner',
-    canonicalUrl: 'https://myspace.example.com/',
+    canonicalUrl: 'https://1-qi3v.vercel.app/',
     ogImage: '',
   },
 };
